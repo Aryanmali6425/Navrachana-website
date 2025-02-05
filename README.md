@@ -1,2 +1,2 @@
 # Navrachana-website
-Website using html, css an java
+Website using html, css and java
